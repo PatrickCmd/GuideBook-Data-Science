@@ -130,3 +130,6 @@ dmypy.json
 
 # Pipenv
 Pipfile*
+
+# vscode
+.DS_store
